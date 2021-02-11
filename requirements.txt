@@ -1,0 +1,6 @@
+asn1crypto==0.24.0
+cryptography==2.1.4
+Django==1.11.29
+django-cors-headers==3.0.2
+djangorestframework==3.9.4
+azure-storage-blob==12.7.1
